@@ -13,7 +13,7 @@
 		"bluebird": "^3.7.2",
 		"express": "^4.17.1",
 		"fs": "0.0.1-security",
-		"googleapis": "^47.0.0",
+		"googleapis": "^118.0.0",
 		"http": "0.0.0",
 		"open": "^7.0.3",
 		"path": "^0.12.7",
